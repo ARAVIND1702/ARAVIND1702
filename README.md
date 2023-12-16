@@ -57,8 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ARAVIND1702/ARAVIND1702/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
