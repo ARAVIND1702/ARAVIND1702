@@ -19,15 +19,11 @@
 ###
 
 <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px; height: 50px;" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="width: 50px; height: 50px;" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="width: 50px; height: 50px;" alt="Swift" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="width: 50px; height: 50px;" alt="Xamarin" />
   <img src="https://skillicons.dev/icons?i=ps" style="width: 50px; height: 50px;" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=figma" style="width: 50px; height: 50px;" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 50px; height: 50px;" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width: 50px; height: 50px;" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="width: 50px; height: 50px;" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width: 50px; height: 50px;" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="width: 50px; height: 50px;" alt="Xcode" />
 </div>
