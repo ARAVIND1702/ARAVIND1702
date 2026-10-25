@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I am Aravind RM, a Mobile and Web alchemist with a passion for IoT projects. I seamlessly integrate my skills to craft innovative solutions. My creative flair extends to design projects, making me a dynamic force in the tech and design domains.</h5>
+<h5 align="left">I am Aravind RM, a Mobile and Web alchemist with a passion for Mobile Development IoT projects. I seamlessly integrate my skills to craft innovative solutions.</h5>
 
 ###
 
